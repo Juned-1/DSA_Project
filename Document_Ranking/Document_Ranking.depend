@@ -1,0 +1,77 @@
+# depslib dependency file v1.0
+1674101017 source:d:\programming\oopds\document_ranking\main.cpp
+	"accessfile.hpp"
+
+1674118492 d:\programming\oopds\document_ranking\accessfile.hpp
+	"binomialheap.hpp"
+
+1674196976 source:d:\programming\oopds\document_ranking\document.cpp
+	"document.hpp"
+
+1674197010 d:\programming\oopds\document_ranking\document.hpp
+	"getsystemheader.hpp"
+
+1675034815 d:\programming\oopds\document_ranking\getsystemheader.hpp
+	<iostream>
+	<fstream>
+	<windows.h>
+	<climits>
+	<direct.h>
+	<dirent.h>
+	<cstring>
+	<sys\types.h>
+	<cctype>
+	<filesystem>
+	<cstddef>
+	<cstdlib>
+	<vector>
+	<string>
+	<stack>
+
+1675035148 d:\programming\oopds\document_ranking\binomialheap.hpp
+	"document.hpp"
+
+1675035772 source:d:\programming\oopds\document_ranking\binomialheap.cpp
+	"binomialheap.hpp"
+
+1676442217 source:d:\programming\oopds\document_ranking\accessfile.cpp
+	"accessfile.hpp"
+
+1676442217 source:d:\programming\document_ranking\accessfile.cpp
+	"accessfile.hpp"
+
+1674118492 d:\programming\document_ranking\accessfile.hpp
+	"binomialheap.hpp"
+
+1675035148 d:\programming\document_ranking\binomialheap.hpp
+	"document.hpp"
+
+1674197010 d:\programming\document_ranking\document.hpp
+	"getsystemheader.hpp"
+
+1675034815 d:\programming\document_ranking\getsystemheader.hpp
+	<iostream>
+	<fstream>
+	<windows.h>
+	<climits>
+	<direct.h>
+	<dirent.h>
+	<cstring>
+	<sys\types.h>
+	<cctype>
+	<filesystem>
+	<cstddef>
+	<cstdlib>
+	<vector>
+	<string>
+	<stack>
+
+1675035772 source:d:\programming\document_ranking\binomialheap.cpp
+	"binomialheap.hpp"
+
+1674196976 source:d:\programming\document_ranking\document.cpp
+	"document.hpp"
+
+1674101017 source:d:\programming\document_ranking\main.cpp
+	"accessfile.hpp"
+
